@@ -24,4 +24,4 @@
 
 
  🍈 8. [二叉查找树](https://github.com/RobinOfSky/Data-structure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E4%BA%8C%E5%8F%89%E6%9F%A5%E6%89%BE%E6%A0%91%EF%BC%88%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%EF%BC%8C%E4%BA%8C%E5%8F%89%E6%8E%92%E5%BA%8F%E6%A0%91%EF%BC%89.md)
-
+ 🥑 9. [双端队列](https://github.com/RobinOfSky/Data-structure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E5%8F%8C%E7%AB%AF%E9%98%9F%E5%88%97.md)
