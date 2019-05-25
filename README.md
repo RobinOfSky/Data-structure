@@ -37,3 +37,6 @@
 
 
  🌽  10. [优先级队列](https://github.com/RobinOfSky/Data-structure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E2%80%94%E4%BC%98%E5%85%88%E7%BA%A7%E9%98%9F%E5%88%97.md)
+ 
+ ### 三，对数据结构的思想认识
+ 
